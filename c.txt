@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 jvnkdjfmslxhello vjscmk
+=======
+vnjdms,hello vjscmk
+>>>>>>> main
 
 hello local c and waw 
 hello local c and waw

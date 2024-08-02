@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 kjm vlf,c;sda'jnkdvvvvvsome
+=======
+some
+
+
+kkkkkk
+>>>>>>> main
